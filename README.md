@@ -8,7 +8,7 @@ A data science project built to predict rainfall and analyze the impact of extre
 
 ## 🌐 Live Demo
 
-👉 [prediccionlluviaenriograndedosul.streamlit.app](https://prediccionlluviaenriograndedosul.streamlit.app/)
+👉 [prediccionlluviaenriograndedosul.streamlit.app](https://clima-rio-grande.onrender.com/)
 
 ---
 
@@ -71,10 +71,8 @@ BigQuery                    ← historical data warehouse
 
 ## 🤖 ML Model
 
-The classification model (`modelo_clasificacion.pkl`) was trained using Scikit-learn to predict rain conditions based on meteorological variables.
-
-Training notebook: [`entrenar_ml.ipynb`](notebooks/entrenar_ml.ipynb)  
-EDA notebook: [`eda.ipynb`](notebooks/eda.ipynb)
+Training notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h6Gi4yrzeyKJiakFy4bruRNCaGkTu8yM?usp=sharing)  
+EDA notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hPN3hj76en4M4EXshwMW9hlI9UlCOoOw?usp=sharing)
 
 ---
 
