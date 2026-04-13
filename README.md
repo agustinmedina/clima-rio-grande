@@ -8,7 +8,7 @@ A data science project built to predict rainfall and analyze the impact of extre
 
 ## 🌐 Live Demo
 
-👉 [prediccionlluviaenriograndedosul.streamlit.app](https://clima-rio-grande.onrender.com/)
+👉 [https://clima-rio-grande.onrender.com](https://clima-rio-grande.onrender.com/)
 
 ---
 
